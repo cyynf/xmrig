@@ -19,7 +19,6 @@
       --no-huge-pages      disable huge pages support
       --no-color           disable colored output
       --variant            algorithm PoW variant
-      --donate-level=N     donate level, default 5% (5 minutes in 100 minutes)
       --user-agent         set custom user-agent string for pool
   -B, --background         run the miner in the background
   -c, --config=FILE        load a JSON-format configuration file
